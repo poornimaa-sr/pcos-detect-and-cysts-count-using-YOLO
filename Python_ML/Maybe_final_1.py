@@ -77,4 +77,3 @@ plt.axis('off')
 plt.show()
 
 
-#---------DISPLAY THE MODEL PARAMETERS------------
